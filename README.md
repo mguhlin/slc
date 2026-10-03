@@ -19,3 +19,7 @@ Add future activities in their own `activities/<name>/` directories and add thei
 ## Sources
 
 The supplied teacher key records TEKS alignment and links to the Texas Education Agency source. Challenges introduce or review selected portions of expectations; they are not a complete curriculum. Data and explanations are adapted from the supplied key. Illustrations are simplified and not scale drawings.
+
+## Hero, privacy, and attribution
+
+The original broad-science hero is saved at `assets/hero/science-learning-center.png`; its built-in image-generation prompt is in `assets/hero/prompt.txt`. `privacy.html` follows DrawSplat’s plain-language approach but describes only SLC’s actual browser-memory responses and GitHub Pages hosting. `license.html` attributes original educational content and artwork as **CC BY-SA 2026 Miguel Guhlin**, with CC BY-SA 4.0 terms in `LICENSE`. Linked third-party sources retain their own terms.
