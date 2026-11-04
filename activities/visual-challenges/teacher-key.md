@@ -2,7 +2,7 @@
 
 Five separate challenge posters for each of grades 6, 7, and 8. These original classroom questions align with selected Texas science TEKS from the 2021 adoption, implemented in 2024–2025. They introduce or review parts of the cited expectations; they do not cover each expectation in full.
 
-Source: [TEA: Science TEKS, Middle School](https://tea.texas.gov/laws-and-rules/sboe-rules-tac/sboe-tac-currently-effect/ch112b.pdf). Alignment checked October 3, 2026.
+Source: [TEA: Science TEKS, Middle School](https://tea.texas.gov/laws-and-rules/sboe-rules-tac/sboe-tac-currently-effect/ch112b.pdf).
 
 ## Classroom routine
 
